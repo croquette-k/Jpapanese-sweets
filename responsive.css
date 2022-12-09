@@ -1,0 +1,72 @@
+@media (max-width:768px) {
+    header {
+        background-image: url(img/mainvisual-sp.jpg);
+        padding: 20px;
+        margin-bottom: 80px;
+    }
+    .online-store {
+        left: 20px;
+        bottom: 20px;
+    }
+    .news {
+        padding-bottom: 80px;
+    }
+    .news h2 {
+        font-size:28px;
+    }
+    .news-contents {
+        padding: 30px;
+    }
+    .news-content {
+        padding: 15px 12px;
+    }
+    .nc3 {
+        display: none;
+    }
+    .product1 {
+        padding: 0 20px 80px 20px;
+    }
+    .product2 {
+        padding: 0 20px 80px 20px;
+    }
+    .en-bottom h2 {
+        font-size: 24px;
+    }
+    .en-bottom span {
+        display: none;
+    }
+    .img {
+        margin: 0 5px;
+        padding-top: 70px;
+        width: 86%;
+    }
+    .img img {
+    }
+    .textbox,.textbox2 {
+        width: 65%;
+        height: auto;
+        padding: 30px 0;
+        font-size: 14px;
+        text-align: center;
+        
+    }
+    footer {
+        height: 461px;
+    }
+    .footer-top {
+        padding: 40px 20px 10px 20px;
+    }
+    .footer-right p {
+        margin: 0 20px;
+    }
+    .footer-logo {
+        margin-left:0;
+    }
+    .footer-menu-list {
+        font-size: 14px;
+    }
+    .footer-menu-list li {
+        margin-left: 5px;
+    }
+}
+
