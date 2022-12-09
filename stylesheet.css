@@ -1,0 +1,188 @@
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+body {
+    font-family: "游明朝";
+    background-color: #E6E2D7;
+    box-sizing: border-box;
+}
+header {
+    background-image: url(img/mainvisual-pc.jpg);
+    width: 100%;
+    height:100vh;
+    background-position: center top;
+    background-size: cover;
+    padding: 60px 80px;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    position: relative;
+    margin-bottom: 180px;
+}
+.logo {
+    margin-left: 60px;
+    width: 40px;
+}
+.menu{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.menu-list li {
+    margin-left: 25px;
+}
+.online-store {
+    position: absolute;
+    bottom: 30px;
+    left: 40px;
+    width: 68px;
+    height: 257px;
+    background-color: #FFFFFF33;
+    padding: 8px;
+}
+.online-store a {
+    display: block;
+    line-height: 52px;
+    text-align: center;
+    color: #CCCCCC;
+    border: 1px solid #CCCCCC;
+}
+.online-store a:hover {
+    opacity: 0.7;
+}
+main {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.news {
+    width: 100%;
+    padding: 0 20px 180px 20px;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+}
+.en {
+    font-size: 14px;
+    line-height: 1px;
+}
+h2 {
+    font-size: 36px;
+    font-weight: normal;
+}
+.news-contents {
+    padding: 80px;
+}
+.news-content {
+    padding: 15px 30px;
+    font-size: 16px;
+    
+}
+.news-content p {
+    display: block;
+    width: 16px;
+    height: 261px;
+}
+time {
+    display: block;
+    font-size: 13px;
+    width: 13px;
+}
+.nc1 {
+    border-right: 1px solid #000;
+}
+.nc2 {
+    border-right: 1px solid #000;
+    border-left: 1px solid #000;
+}
+.nc3 {
+    border-left: 1px solid #000;
+}
+.product1 {
+    width: 100%;
+    padding: 0 20px 160px 20px;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+}
+.en-bottom {
+    display: flex;
+    align-items: center;
+}
+.en-bottom span {
+    margin-top: 18px;
+}
+.img {
+    margin-top: 100px;
+    width: 639px;
+    position: relative;
+    margin: 0 20px;
+}
+.img img {
+    max-width: 100%;
+    
+}
+.textbox {
+    width: 358px;
+    height: 137px;
+    background-color: rgba(249, 233, 6, 0.6);
+    -ms-writing-mode: lr-tb;
+    writing-mode: horizontal-tb;
+    padding: 50px 115px;
+    color: #fff;
+    position: absolute;
+    bottom: -20px;
+    left: -20px;
+}
+
+.product2 {
+    width: 100%;
+    padding: 0 20px 160px 20px;
+    -ms-writing-mode: tb-lr;
+    writing-mode: vertical-lr;
+}
+.textbox2 {
+    width: 358px;
+    height: 137px;
+    background-color: rgba(149, 42, 38, 0.6);
+    -ms-writing-mode: lr-tb;
+    writing-mode: horizontal-tb;
+    padding: 50px 115px;
+    color: #fff;
+    position: absolute;
+    bottom: -20px;
+    right: -20px;
+}
+.google-map {
+    width: 100%;
+    height: 450px;
+}
+
+footer {
+    background-color: #000000;
+    width: 100%;
+    height: 501px;
+    
+}
+.footer-top {
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    width: 100%;
+    padding: 80px 80px 10px 30px;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.footer-top a {
+    color: white;
+}
+.footer-right p {
+    font-size: 14px;
+    margin-left: 60px;
+}
+.footer-left {
+    font-size:14px;
+}
+.footer-bottom {
+    color: white;
+    text-align: center;
+}
